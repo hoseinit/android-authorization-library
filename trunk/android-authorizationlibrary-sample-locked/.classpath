@@ -6,5 +6,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/android-authorizationlibrary"/>
 	<classpathentry kind="src" path="android-authorizationlibrary_src"/>
 	<classpathentry kind="src" path="android-authorizationlibrary-sample-common_src"/>
-	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
