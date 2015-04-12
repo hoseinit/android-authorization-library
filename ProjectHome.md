@@ -1,0 +1,1 @@
+Provides a full system to help you develop Android applications that have a free version and some commercial unlocking application.
